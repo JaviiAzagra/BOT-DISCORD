@@ -1,2 +1,2 @@
 # BOT-DISCORD
-🤖 A discord bot with rols, music, tickets and admins commands.
+🤖 A discord bot with roles, music, tickets and admins commands.
